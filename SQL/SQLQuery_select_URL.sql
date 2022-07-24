@@ -1,0 +1,1 @@
+SELECT [dbo].books.URL FROM [dbo].books WHERE [dbo].books.BookId = 1
